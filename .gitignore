@@ -1,0 +1,27 @@
+
+---
+
+## 2️⃣ **.gitignore**
+
+```gitignore
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Node modules (if you add any tooling)
+node_modules/
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
+
+# Log files
+*.log
+
